@@ -7,4 +7,5 @@ Read the program how to make it, just simple how to copy it. If you find somethi
 
 Reference
 
-1. http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/
+1. Simple Machine Learning (Github)
+2. http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/
